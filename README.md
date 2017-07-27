@@ -1,5 +1,11 @@
 # szjvm
 实战Java虚拟机（葛一鸣|著）
+
+```bash
+mvn compile
+git rm -rf target
+```
+
 ---------------------------------------
 ch01
 java.exe
